@@ -67,5 +67,5 @@ This is my **4th project**, focusing on **real-world networking use cases** in t
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasir-sayyed-b16520245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
