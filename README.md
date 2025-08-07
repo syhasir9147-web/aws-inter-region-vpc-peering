@@ -32,13 +32,7 @@ This intermediate-level AWS networking project demonstrates how to create **Virt
 - Practiced **routing configuration** across regions
 - Verified connectivity using **real EC2 testing**
 - Gained insight into **multi-region AWS architecture**
-
----
-
-## 🌐 Architecture Overview
-
-> (Optional – Want me to generate a clean diagram of the multi-region VPC setup?)
-
+  
 ---
 
 ## 🔐 Security Best Practices
@@ -46,14 +40,6 @@ This intermediate-level AWS networking project demonstrates how to create **Virt
 - RDP allowed only from my IP
 - No public IP on peered subnets except for testing
 - Terminated all resources post-testing to avoid charges
-
----
-
-## 🔄 What's Next?
-
-- Setup peering using **Terraform**
-- Use **Linux EC2 + SSH** across regions
-- Add **cloud monitoring (CloudWatch)** for peered traffic
 
 ---
 
